@@ -434,7 +434,7 @@ header{
         width: 90%;
         height: 55rem;
         background-color: #afafaf;
-        background-image: url('../images/projects/tic-tac-toe.webp');
+        background-image: url('../images/projects/image.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -447,7 +447,7 @@ header{
     }
 
     .project-container #project-3{
-        background-image: url('../images/projects/counter-app.webp');
+        background-image: url('../images/projects/easy.webp');
     }
 
     .project-container #project-4{
